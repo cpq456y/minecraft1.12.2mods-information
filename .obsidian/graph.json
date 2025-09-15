@@ -1,0 +1,135 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/JEI  ",
+      "color": {
+        "a": 1,
+        "rgb": 57601
+      }
+    },
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/IC2  ",
+      "color": {
+        "a": 1,
+        "rgb": 1277951
+      }
+    },
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/FR  ",
+      "color": {
+        "a": 1,
+        "rgb": 16769345
+      }
+    },
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/TIC2  ",
+      "color": {
+        "a": 1,
+        "rgb": 13804601
+      }
+    },
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/拔刀剑SlashBlade  ",
+      "color": {
+        "a": 1,
+        "rgb": 12632256
+      }
+    },
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/GT  ",
+      "color": {
+        "a": 1,
+        "rgb": 1042667
+      }
+    },
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/DT  ",
+      "color": {
+        "a": 1,
+        "rgb": 7839801
+      }
+    },
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/LIB  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/Millénaire  ",
+      "color": {
+        "a": 1,
+        "rgb": 4204833
+      }
+    },
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/OpenComputer  ",
+      "color": {
+        "a": 1,
+        "rgb": 35656
+      }
+    },
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/PR  ",
+      "color": {
+        "a": 1,
+        "rgb": 15073280
+      }
+    },
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/AE2  ",
+      "color": {
+        "a": 1,
+        "rgb": 9684991
+      }
+    },
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/EIO  ",
+      "color": {
+        "a": 1,
+        "rgb": 1014405
+      }
+    },
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/GC  ",
+      "color": {
+        "a": 1,
+        "rgb": 3684255
+      }
+    },
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/优化  ",
+      "color": {
+        "a": 1,
+        "rgb": 11119017
+      }
+    },
+    {
+      "query": "path:Minecraft1.12.2/模组/Forge_or_CRL/CRL特供",
+      "color": {
+        "a": 1,
+        "rgb": 9351628
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 270,
+  "scale": 0.11660891579457001,
+  "close": true
+}
