@@ -1,200 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "GC丨星系丨GalactiCraft",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/GC/GC丨星系丨GalactiCraft.md"
+      "basename": "MFR丨我的工厂重置版丨MineFactory Reloaded",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/MFR丨我的工厂重置版丨MineFactory Reloaded.md"
     },
     {
-      "basename": "Fugue",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/CRL特供/Fugue.md"
+      "basename": "CB Multipart 丨Forge Multipart CBE 丨 ForgeMultipart",
+      "path": "Minecraft1.12.2/引用图片/封面/Forge_or_CRL/CB Multipart 丨Forge Multipart CBE 丨 ForgeMultipart.md"
     },
     {
-      "basename": "Vintage Horizons",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/CRL特供/Vintage Horizons.md"
+      "basename": "ConArm丨匠魂盔甲丨Construct's Armory",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/TIC2/ConArm丨匠魂盔甲丨Construct's Armory.md"
     },
     {
-      "basename": "Cleanroom",
-      "path": "Minecraft1.12.2/模组加载器/Cleanroom.md"
+      "basename": "OF丨高清修复丨OptiFine",
+      "path": "Minecraft1.12.2/模组/OF丨高清修复丨OptiFine.md"
     },
     {
-      "basename": "CodeChicken Lib CRE",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/CRL特供/CodeChicken Lib CRE.md"
+      "basename": "EB丨更多蜜蜂丨Extra Bees",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/FR/EB丨更多蜜蜂丨Extra Bees.md"
     },
     {
-      "basename": "Celeritas Dynamic Lights",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/CRL特供/Celeritas Dynamic Lights.md"
+      "basename": "FR丨林业丨Forestry",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/FR/FR丨林业丨Forestry.md"
     },
     {
-      "basename": "LL丨LiteLoader",
-      "path": "Minecraft1.12.2/模组加载器/LL丨LiteLoader.md"
+      "basename": "高级机械丨AdvancedMachines",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/IC2/高级机械丨AdvancedMachines.md"
     },
     {
-      "basename": "UB丨科学地质丨Underground Biomes",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/UB丨科学地质丨Underground Biomes.md"
-    },
-    {
-      "basename": "线程优化丨TickThreading",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/优化/线程优化丨TickThreading.md"
-    },
-    {
-      "basename": "BM2丨血魔法2丨Blood Magic 2",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/BM2/BM2丨血魔法2丨Blood Magic 2.md"
-    },
-    {
-      "basename": "匠魂拓展丨Tinkers' Addons",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/TIC2/匠魂拓展丨Tinkers' Addons.md"
-    },
-    {
-      "basename": "匠魂拓展丨Tinkers' Addons",
-      "path": "Minecraft1.12.2/引用图片/封面/Forge_or_CRL/匠魂拓展丨Tinkers' Addons.jpg"
-    },
-    {
-      "basename": "Tinkers' Golems Addon Reborn",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/Tinkers' Golems Addon Reborn.md"
-    },
-    {
-      "basename": "Tinkers' Golems Addon",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/Tinkers' Golems Addon.md"
-    },
-    {
-      "basename": "TConEvo丨匠魂进化丨Tinkers' Evolution",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/TIC2/TConEvo丨匠魂进化丨Tinkers' Evolution.md"
-    },
-    {
-      "basename": "NEI丨NEI物品管理器丨Not Enough Items",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/JEI/NEI丨NEI物品管理器丨Not Enough Items.md"
-    },
-    {
-      "basename": "GTCon丨格雷与匠魂丨Greg's Construct",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/TIC2/GTCon丨格雷与匠魂丨Greg's Construct.md"
-    },
-    {
-      "basename": "匠魂补充丨Tinkers' Complement",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/TIC2/匠魂补充丨Tinkers' Complement.md"
-    },
-    {
-      "basename": "JM丨旅行地图丨JourneyMap",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/JM丨旅行地图丨JourneyMap.md"
-    },
-    {
-      "basename": "电动力学丨Electrodynamics",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/电动力学丨Electrodynamics.md"
-    },
-    {
-      "basename": "Voltaic",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/LIB/Voltaic.md"
-    },
-    {
-      "basename": "EIO丨末影接口丨Ender IO",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/EIO/EIO丨末影接口丨Ender IO.md"
-    },
-    {
-      "basename": "EIO丨末影接口丨Ender IO",
-      "path": "Minecraft1.12.2/引用图片/画廊/Forge_or_CRL/EIO丨末影接口丨Ender IO.webp"
-    },
-    {
-      "basename": "末影核心丨EnderCore",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/EIO/末影核心丨EnderCore.md"
-    },
-    {
-      "basename": "Mumble语音链接丨Mumblelink",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/Mumble语音链接丨Mumblelink.md"
-    },
-    {
-      "basename": "IR丨渲染图片导出丨Item Render",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/IR丨渲染图片导出丨Item Render.md"
-    },
-    {
-      "basename": "EC2丨更多存储单元2丨Extra Cells 2",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/AE2/EC2丨更多存储单元2丨Extra Cells 2.md"
-    },
-    {
-      "basename": "AE2丨应用能源2丨Applied Energistics 2",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/AE2/AE2丨应用能源2丨Applied Energistics 2.md"
-    },
-    {
-      "basename": "变身丨Morph",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/变身丨Morph.md"
-    },
-    {
-      "basename": "WD丨内置网页浏览器丨WebDisplays",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/WD丨内置网页浏览器丨WebDisplays.md"
-    },
-    {
-      "basename": "MCEF丨Minecraft Chromium丨嵌入式框架",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/MCEF丨Minecraft Chromium丨嵌入式框架.md"
-    },
-    {
-      "basename": "区块载入器丨ChickenChunks",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/区块载入器丨ChickenChunks.md"
-    },
-    {
-      "basename": "次元门丨Dimensional Doors",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/次元门丨Dimensional Doors.md"
-    },
-    {
-      "basename": "Eternal Limbo",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/Eternal Limbo.md"
-    },
-    {
-      "basename": "PR丨红石计划丨ProjectRed",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/PR/PR丨红石计划丨ProjectRed.md"
-    },
-    {
-      "basename": "光影前向兼容丨AdvancedShader",
-      "path": "Minecraft1.12.2/引用图片/封面/Forge_or_CRL/光影前向兼容丨AdvancedShader.jpg"
-    },
-    {
-      "basename": "MrTJPCore",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/LIB/MrTJPCore.md"
-    },
-    {
-      "basename": "神秘岛丨Mystcraft",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/神秘岛丨Mystcraft.md"
-    },
-    {
-      "basename": "木匠方块丨Carpenter's Blocks",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/木匠方块丨Carpenter's Blocks.md"
-    },
-    {
-      "basename": "MB丨魔法蜜蜂丨Magic Bees",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/FR/MB丨魔法蜜蜂丨Magic Bees.md"
-    },
-    {
-      "basename": "更多树丨Extra Trees",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/FR/更多树丨Extra Trees.md"
-    },
-    {
-      "basename": "LP丨物流管道丨Logistics Pipes",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/LP丨物流管道丨Logistics Pipes.md"
-    },
-    {
-      "basename": "MC丨我的世界原版丨Minecraft",
-      "path": "Minecraft1.12.2/MC丨我的世界原版丨Minecraft.md"
-    },
-    {
-      "basename": "IC2丨工业时代2丨Industrial Craft 2",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/IC2/IC2丨工业时代2丨Industrial Craft 2.md"
-    },
-    {
-      "basename": "BC丨建筑丨BuildCraft",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/BC丨建筑丨BuildCraft.md"
+      "basename": "压缩太阳能阵列丨CompactSolars 丨Compact Solar Arrays",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/IC2/压缩太阳能阵列丨CompactSolars 丨Compact Solar Arrays.md"
     },
     {
       "basename": "ASP丨高级太阳能丨Advanced Solar Panels",
       "path": "Minecraft1.12.2/模组/Forge_or_CRL/IC2/ASP丨高级太阳能丨Advanced Solar Panels.md"
     },
     {
-      "basename": "工匠接口社区版丨Tinker IO CE",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/TIC2/工匠接口社区版丨Tinker IO CE.md"
+      "basename": "JEI丨JEI丨物品管理器Just Enough Items",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/JEI/JEI丨JEI丨物品管理器Just Enough Items.md"
     },
     {
-      "basename": "匠魂空岛丨Tinkers' Skyblock",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/TIC2/匠魂空岛丨Tinkers' Skyblock.md"
+      "basename": "NEI丨NEI物品管理器丨Not Enough Items",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/JEI/NEI丨NEI物品管理器丨Not Enough Items.md"
     },
     {
-      "basename": "工匠再锻丨Tinkers Reforged",
-      "path": "Minecraft1.12.2/模组/Forge_or_CRL/TIC2/工匠再锻丨Tinkers Reforged.md"
+      "basename": "匠魂怀古丨Tinkers' Antique",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/TIC2/匠魂怀古丨Tinkers' Antique.md"
+    },
+    {
+      "basename": "传送枪丨Portal Gun",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/传送枪丨Portal Gun.md"
+    },
+    {
+      "basename": "地幔丨Mantle",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/LIB/地幔丨Mantle.md"
+    },
+    {
+      "basename": "更多箱子丨Iron Chests",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/更多箱子丨Iron Chests.md"
+    },
+    {
+      "basename": "光影前向兼容丨AdvancedShader",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/光影前向兼容丨AdvancedShader.md"
+    },
+    {
+      "basename": "简单矿石丨SimpleOres",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/简单矿石丨SimpleOres.md"
+    },
+    {
+      "basename": "简单前置丨SimpleCore API",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/LIB/简单前置丨SimpleCore API.md"
+    },
+    {
+      "basename": "灵活动作丨Smart Moving",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/灵活动作丨Smart Moving.md"
+    },
+    {
+      "basename": "模块化动力装甲前置丨Numina",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/LIB/模块化动力装甲前置丨Numina.md"
+    },
+    {
+      "basename": "末影存储丨Ender Storage",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/末影存储丨Ender Storage.md"
+    },
+    {
+      "basename": "千年村庄丨Millénaire",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/Millénaire/千年村庄丨Millénaire.md"
+    },
+    {
+      "basename": "收藏馆丨BiblioCraft",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/收藏馆丨BiblioCraft.md"
+    },
+    {
+      "basename": "玩家渲染丨APIRender Player API",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/LIB/玩家渲染丨APIRender Player API.md"
+    },
+    {
+      "basename": "玩家API丨Player API",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/LIB/玩家API丨Player API.md"
+    },
+    {
+      "basename": "野营丨The Camping Mod",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/野营丨The Camping Mod.md"
+    },
+    {
+      "basename": "原子科学丨Atomic Science",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/原子科学丨Atomic Science.md"
+    },
+    {
+      "basename": "粘土士兵丨Clay Soldiers Mod",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/粘土士兵丨Clay Soldiers Mod.md"
+    },
+    {
+      "basename": "召唤奴仆丨Minecraft Minions",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/召唤奴仆丨Minecraft Minions.md"
+    },
+    {
+      "basename": "转运器丨Translocators",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/转运器丨Translocators.md"
+    },
+    {
+      "basename": "自定义NPC丨Custom NPCs",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/自定义NPC丨Custom NPCs.md"
+    },
+    {
+      "basename": "自然丨Natura",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/自然丨Natura.md"
+    },
+    {
+      "basename": "AE丨天境丨The Aether",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/AE丨天境丨The Aether.md"
+    },
+    {
+      "basename": "ATUM2丨阿图姆-沙漠之旅or亚图姆-金沙之旅丨Atum 2-Return to the Sands",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/ATUM2丨阿图姆-沙漠之旅or亚图姆-金沙之旅丨Atum 2-Return to the Sands.md"
+    },
+    {
+      "basename": "BOP丨超多生物群系丨Biomes O' Plenty",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/BOP丨超多生物群系丨Biomes O' Plenty.md"
+    },
+    {
+      "basename": "CC丨电脑丨Computer Craft",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/CC丨电脑丨Computer Craft.md"
+    },
+    {
+      "basename": "CCL丨CodeChicken Lib",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/LIB/CCL丨CodeChicken Lib.md"
+    },
+    {
+      "basename": "FE丨ForgeEssentials",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/FE丨ForgeEssentials.md"
+    },
+    {
+      "basename": "Flan 的枪械丨Flan's Mod",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/Flan 的枪械丨Flan's Mod.md"
+    },
+    {
+      "basename": "Fugue",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/CRL特供/Fugue.md"
+    },
+    {
+      "basename": "iChunUtil",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/LIB/iChunUtil.md"
+    },
+    {
+      "basename": "MCA丨虚拟人生 or 凡家物语丨Minecraft Comes Alive",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/MCA丨虚拟人生 or 凡家物语丨Minecraft Comes Alive.md"
+    },
+    {
+      "basename": "MFFS丨模块化力场系统丨Modular Forcefield System",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/MFFS丨模块化力场系统丨Modular Forcefield System.md"
+    },
+    {
+      "basename": "MOC丨更多生物丨Mo' Creatures",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/MOC丨更多生物丨Mo' Creatures.md"
+    },
+    {
+      "basename": "MPS丨模块化动力套装丨Modular Powersuits",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/MPS丨模块化动力套装丨Modular Powersuits.md"
+    },
+    {
+      "basename": "R键整理丨Inventory Tweaks",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/R键整理丨Inventory Tweaks.md"
+    },
+    {
+      "basename": "RC丨铁路丨Railcraft",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/RC丨铁路丨Railcraft.md"
+    },
+    {
+      "basename": "Rikmulds Core Mod",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/LIB/Rikmulds Core Mod.md"
+    },
+    {
+      "basename": "SanLib",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/LIB/SanLib.md"
+    },
+    {
+      "basename": "Scalar",
+      "path": "Minecraft1.12.2/模组/Forge_or_CRL/CRL特供/Scalar.md"
     }
   ],
   "omittedPaths": [],
