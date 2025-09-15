@@ -1,0 +1,8 @@
+formulas:
+  未命名: ""
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.basename
+      - file.path
